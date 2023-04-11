@@ -1,7 +1,7 @@
 ---
 title: 設定 / Favorite Apps
 nav_order: 1021
-has_children: false
+has_children: true
 parent: Sakura
 ---
 
@@ -13,7 +13,10 @@ parent: Sakura
 
 | 環境 |
 | --- |
+| GNOME Shell |
+| Cinnamon |
 | Mate |
+
 
 ## 探索
 
@@ -26,11 +29,11 @@ gsettings list-recursively | grep terminal | grep exec
 顯示
 
 ```
-org.cinnamon.desktop.default-applications.terminal exec 'sakura'
+org.cinnamon.desktop.default-applications.terminal exec 'mate-terminal'
 org.cinnamon.desktop.default-applications.terminal exec-arg '--'
-org.gnome.desktop.default-applications.terminal exec 'sakura'
+org.gnome.desktop.default-applications.terminal exec 'x-terminal-emulator'
 org.gnome.desktop.default-applications.terminal exec-arg '-x'
-org.mate.applications-terminal exec 'sakura'
+org.mate.applications-terminal exec 'mate-terminal'
 org.mate.applications-terminal exec-arg '-x'
 ```
 
