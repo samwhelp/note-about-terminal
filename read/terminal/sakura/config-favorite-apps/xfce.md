@@ -22,3 +22,9 @@ FileManager=pcmanfm-qt
 WebBrowser=firefox
 MailReader=thunderbird
 ```
+
+
+## Link
+
+* xfce4 / xfce4-settings / [Preferred Applications](https://docs.xfce.org/xfce/xfce4-settings/preferred-apps)
+* xfce4 / exo / [Preferred Applications](https://docs.xfce.org/xfce/exo/preferred-applications)
