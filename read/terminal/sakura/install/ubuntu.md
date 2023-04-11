@@ -22,3 +22,8 @@ grand_parent: Sakura
 ``` sh
 sudo apt-get install sakura
 ```
+
+
+## 微調腳本
+
+* [微調腳本](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_demo/adjustment/tool/sakura)

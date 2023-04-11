@@ -22,3 +22,8 @@ grand_parent: Sakura
 ``` sh
 yay -Sy --needed sakura
 ```
+
+
+## 微調腳本
+
+* [微調腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/tool/sakura)
