@@ -1,5 +1,5 @@
 ---
-title: Sakura
+title: sakura
 nav_order: 1000
 has_children: true
 ---
@@ -12,3 +12,4 @@ has_children: true
 
 | 主題 |
 | --- |
+| [安裝](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/install.html) |

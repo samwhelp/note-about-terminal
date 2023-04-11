@@ -10,7 +10,14 @@ grand_parent: Sakura
 # Ubuntu
 
 
+## Ubuntu Package
+
+* [sakura](https://packages.ubuntu.com/jammy/sakura)
+
+
 ## 安裝指令
+
+執行下面指令，安裝「Package: [sakura](https://packages.ubuntu.com/jammy/sakura)」
 
 ``` sh
 sudo apt-get install sakura
