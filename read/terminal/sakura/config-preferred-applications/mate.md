@@ -2,7 +2,7 @@
 title: Mate
 nav_order: 1023
 has_children: false
-parent: 設定 / Favorite Apps
+parent: 設定 / Preferred Applications
 grand_parent: Sakura
 ---
 

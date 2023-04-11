@@ -1,22 +1,22 @@
 ---
-title: 設定 / Favorite Apps
+title: 設定 / Preferred Applications
 nav_order: 1021
 has_children: true
 parent: Sakura
 ---
 
 
-# 設定 / Favorite Apps
+# 設定 / Preferred Applications
 
 
 ## 如何設定
 
 | 環境 |
 | --- |
-| [GNOME Shell](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-favorite-apps/gnome-shell.html) |
-| [Cinnamon](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-favorite-apps/cinnamon.html) |
-| [Mate](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-favorite-apps/mate.html) |
-| [Xfce](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-favorite-apps/xfce.html) |
+| [GNOME Shell](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-preferred-applications/gnome-shell.html) |
+| [Cinnamon](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-preferred-applications/cinnamon.html) |
+| [Mate](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-preferred-applications/mate.html) |
+| [Xfce](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-preferred-applications/xfce.html) |
 
 
 ## 探索

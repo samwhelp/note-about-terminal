@@ -2,7 +2,7 @@
 title: Xfce
 nav_order: 1024
 has_children: false
-parent: 設定 / Favorite Apps
+parent: 設定 / Preferred Applications
 grand_parent: Sakura
 ---
 
