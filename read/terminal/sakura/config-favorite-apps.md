@@ -13,9 +13,10 @@ parent: Sakura
 
 | 環境 |
 | --- |
-| GNOME Shell |
-| Cinnamon |
-| Mate |
+| [GNOME Shell](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-favorite-apps/gnome-shell.html) |
+| [Cinnamon](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-favorite-apps/cinnamon.html) |
+| [Mate](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-favorite-apps/mate.html) |
+| [Xfce](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config-favorite-apps/xfce.html) |
 
 
 ## 探索
