@@ -1,7 +1,7 @@
 ---
 title: 按鍵綁定
 nav_order: 1030
-has_children: true
+has_children: false
 parent: Sakura
 ---
 
