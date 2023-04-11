@@ -14,6 +14,7 @@ has_children: true
 | --- |
 | [安裝](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/install.html) |
 | [設定](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/config.html) |
+| [按鍵綁定](https://samwhelp.github.io/note-about-terminal/read/terminal/sakura/keybind.html) |
 
 
 
