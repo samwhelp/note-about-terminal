@@ -13,6 +13,7 @@ parent: Sakura
 
 | 微調腳本 |
 | --- |
+| [Debian](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) |
 | [Ubuntu](https://github.com/samwhelp/note-about-ubuntu/tree/gh-pages/_demo/adjustment/tool/sakura) |
 | [Archlinux](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/tool/sakura) |
 
