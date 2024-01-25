@@ -22,4 +22,4 @@ parent: Sakura
 
 | 設定檔 |
 | --- |
-| [~/.config/sakura/sakura.conf](https://github.com/samwhelp/ezarcher-adjustment/blob/main/prototype/tool/sakura/config/sakura/sakura.conf) |
+| [~/.config/sakura/sakura.conf](https://github.com/samwhelp/note-about-terminal/blob/gh-pages/_demo/terminal-config/debian/sakura/asset/overlay/etc/skel/.config/sakura/sakura.conf) |
