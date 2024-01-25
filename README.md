@@ -14,7 +14,7 @@
 | [konsole](https://samwhelp.github.io/note-about-terminal/read/terminal/konsole.html) |
 | [qterminal](https://samwhelp.github.io/note-about-terminal/read/terminal/qterminal.html) |
 | [konsole](https://samwhelp.github.io/note-about-terminal/read/terminal/konsole.html) |
-| [gnome-terminal](https://samwhelp.github.io/note-about-terminal/read/terminal/nome-terminal.html) |
+| [gnome-terminal](https://samwhelp.github.io/note-about-terminal/read/terminal/gnome-terminal.html) |
 | [mate-terminal](https://samwhelp.github.io/note-about-terminal/read/terminal/mate-terminal.html) |
 
 
