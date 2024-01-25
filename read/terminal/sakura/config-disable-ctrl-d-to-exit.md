@@ -12,8 +12,8 @@ parent: Sakura
 ## Link
 
 * Search: [bash ctrl d](https://www.google.com/search?q=bash+ctrl+d)
-* https://www.gnu.org/software/bash/manual/bash.html#index-end_002dof_002dfile-_0028usually-C_002dd_0029
-* https://www.gnu.org/software/bash/manual/bash.html#index-IGNOREEOF
+* Bash Reference Manual / 8.4.3 Commands For Changing Text / [end-of-file (usually C-d)](https://www.gnu.org/software/bash/manual/bash.html#index-end_002dof_002dfile-_0028usually-C_002dd_0029)
+* Bash Reference Manual / 5.2 Bash Variables / [IGNOREEOF](https://www.gnu.org/software/bash/manual/bash.html#index-IGNOREEOF)
 
 
 ## 說明
