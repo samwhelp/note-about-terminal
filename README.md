@@ -23,3 +23,13 @@
 | Drop Down Terminal |
 | --- |
 | [yakuake](https://samwhelp.github.io/note-about-terminal/read/terminal/yakuake.html) |
+
+
+
+
+## 相關筆記
+
+| 相關筆記 |
+| --- |
+| [bash 探索筆記](https://samwhelp.github.io/note-about-bash/) |
+| [fzf 探索筆記](https://samwhelp.github.io/note-about-fzf/) |
