@@ -2,7 +2,7 @@
 title: 設定
 nav_order: 1020
 has_children: false
-parent: Sakura
+parent: sakura
 ---
 
 

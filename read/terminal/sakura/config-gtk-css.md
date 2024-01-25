@@ -2,7 +2,7 @@
 title: 設定 / gtk.css
 nav_order: 1022
 has_children: false
-parent: Sakura
+parent: sakura
 ---
 
 

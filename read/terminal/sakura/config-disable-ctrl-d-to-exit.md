@@ -2,7 +2,7 @@
 title: 設定 / Disable `ctrl + d` to exit
 nav_order: 1023
 has_children: true
-parent: Sakura
+parent: sakura
 ---
 
 

@@ -3,7 +3,7 @@ title: GNOME Shell
 nav_order: 1021
 has_children: false
 parent: 設定 / Preferred Applications
-grand_parent: Sakura
+grand_parent: sakura
 ---
 
 

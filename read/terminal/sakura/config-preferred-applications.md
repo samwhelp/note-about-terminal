@@ -2,7 +2,7 @@
 title: 設定 / Preferred Applications
 nav_order: 1021
 has_children: true
-parent: Sakura
+parent: sakura
 ---
 
 
